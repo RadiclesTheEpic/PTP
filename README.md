@@ -13,7 +13,7 @@
     <div style = "text-align: center;"> 
         <h1>Full Send V4</h1>
         <h2>A Massive dyno on the cave wall</h2>
-        <h3><a href="https://www.columbusrockgym.com/">Columbus rock gym</a></h3>
+        <h3><a href="https://www.columbusrockgym.com/">Columbus Rock Gym</a></h3>
     </div>
     <div class="video-container">
         <video controls="controls" width="405" height="735">
