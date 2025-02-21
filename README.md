@@ -8,7 +8,7 @@
     }
         
         </style>
-        </head>
+    </head>
 <body>
     <div style = "text-align: center;"> 
         <h1>Full Send V4</h1>
