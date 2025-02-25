@@ -2,7 +2,7 @@
     <head>
         <style>
         h1 {
-            color:white;
+            color:white; 
     }        
         .video-container {
             display: flex;
