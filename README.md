@@ -1,6 +1,9 @@
 <html>
     <head>
         <style>
+        h1 {
+            background-color: MediumSeaGreen;
+    }        
         .video-container {
             display: flex;
             justify-content: center;
@@ -11,7 +14,7 @@
     </head>
 <body>
     <div style = "text-align: center;"> 
-        <h1 style="background-color:MediumSeaGreen;">Full Send V4</h1>
+        <h1>Full Send V4</h1>
         <h2>A Massive dyno on the cave wall</h2>
         <h3><a href="https://www.columbusrockgym.com/">Columbus Rock Gym</a></h3>
     </div>
