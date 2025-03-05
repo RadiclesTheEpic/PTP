@@ -7,11 +7,11 @@
   opacity: 0.3;
 
 }
-
+      
     </style>
   </header>
 <body>
-    <div style = "text-align: center;"> 
+    <div style = "text-align: center;" style = "color: Black;" style = "opacity: 1;"> 
         <h1>Welcome to Path to Peak!</h1>
         <h2>A Tool Used To Help Climbers of all skill levals Climb better</h2>
         <br>
