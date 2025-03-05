@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
   <header>
     <style> 
       body {
   background-color: lightblue;
-  opacity: 0.3;
+  opacity: 0.5;
 
 }
       
