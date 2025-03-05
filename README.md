@@ -25,8 +25,8 @@
 
    
 </body>
-<body style = "Color: blue" style = "background-color: lightgrey;" >
-  <h2>
+<body style = "background-color: lightgrey;" >
+  <h2 style = "Color: blue" >
     Did you Enjoy your experence? Did you Hate it? Give us feedback to help improve the experence!
   </h2>
   <h2>
