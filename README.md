@@ -25,4 +25,13 @@
 
    
 </body>
+<body style = "background-color: lightgrey;" style = "Color: blue">
+  <h2>
+    Did you Enjoy your experence? Did you Hate it? Give us feedback to help improve the experence!
+  </h2>
+  <h2>
+     <div><a href="https://docs.google.com/forms/d/e/1FAIpQLSebLVcR1RnU7l4R3n5rt5WVWPUWurDoMy8UiqjMPpdA1Mibrg/viewform?usp=sharing">Fill out this form please!</a></div>
+  </h2>
+</body>
+  
 </html>
