@@ -27,10 +27,13 @@
     </div>
 </div>
     <div class="container">
-  <div><a href="https://radiclestheepic.github.io/PTP/Banana_Pass">Banana_Pass </div>
-  <div><a href="https://radiclestheepic.github.io/PTP/Juicing it">Juicing It </div>
-  <div><a href="https://radiclestheepic.github.io/PTP/zest up that wall">Zest Up That Wall </div>
-  <div><a href="https://radiclestheepic.github.io/PTP/The_Tumor">The Tumor </div>
+  <div><a href="https://radiclestheepic.github.io/PTP/Banana_Pass">Banana_Pass</a>
+  </div>
+  <div><a href="https://radiclestheepic.github.io/PTP/Juicing it">Juicing It </a>
+  </div>
+  <div><a href="https://radiclestheepic.github.io/PTP/zest up that wall">Zest Up That Wall </a>
+  </div>
+  <div><a href="https://radiclestheepic.github.io/PTP/The_Tumor">The Tumor</a> </div>
 </div>
 
 
